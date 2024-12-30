@@ -11,7 +11,7 @@ DEDSEC_CODE-CSV is a Linux-based tool designed for securely injecting code or hi
 
 Featuring a user-friendly interface, DEDSEC_CODE-CSV simplifies the process of hiding your data while maintaining the original structure and usability of the CSV file. The tool applies obfuscation techniques to ensure that the inserted content remains undetectable to casual observers, protecting your data from unauthorized access or tampering.
 
-Whether you're conducting secure operations, sharing protected information, or leveraging CSV files for covert purposes, CSV-TO-CODE is your go-to solution for combining data security with flexibility.
+Whether you're conducting secure operations, sharing protected information, or leveraging CSV files for covert purposes, DEDSEC_CODE-CSV is your go-to solution for combining data security with flexibility.
 
 ### INSTALLATION
     * git clone https://github.com/0xbitx/DEDSEC_CODE-CSV.git
